@@ -5,4 +5,6 @@ choice = int (input("Enter your choice"))
 if choice == 1:
     print("Addition is", a*b)
 elif choice == 2:
-    print("Subtraction is", a-b)
+    print("Subtraction not done yet")
+else:
+    print ("invalid choice")
